@@ -11,3 +11,5 @@ Simple social link-sharing profile. Built with HTML and CSS.
 The designs are from a [challenge by frontendmentor.io](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
 > Frontendmentor is a platform offering, some free and paywalled professional designs for frontend developers to create stunning projects.
+
+View my list of all solved Frontementor challenges [here](https://github.com/Av1-Lv5/Frontendmentor-challenges)
